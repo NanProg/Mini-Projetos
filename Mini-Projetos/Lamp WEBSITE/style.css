@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial;
+}
+
+header{
+    text-align: center;
+    font-size: large;
+    margin-top: 5%;
+    font-style: oblique;
+}
+.main{
+    margin: auto;
+    margin-top: 2%;
+    border: solid black 2px;
+    border-radius: 20px;
+    width: 550px;
+    height: 420px;
+    padding: 2%;
+    text-align: center;
+}
+
+div input{
+    width: 120px;
+    height: 80px;
+    font-size: medium;
+    border-radius: 15px;
+    margin-left: 1.2%;
+    margin-right: 1.2%;
+}
+
+footer{
+    text-align: center;
+    font-size: medium;
+    font-style: italic;
+    margin-top: 5%;
+}
